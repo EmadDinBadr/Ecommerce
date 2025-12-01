@@ -1,0 +1,17 @@
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\bin\Debug\net10.0\Catalog.Infrastructure.deps.json
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\bin\Debug\net10.0\Catalog.Infrastructure.dll
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\bin\Debug\net10.0\Catalog.Infrastructure.pdb
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\bin\Debug\net10.0\Catalog.Application.dll
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\bin\Debug\net10.0\Catalog.Core.dll
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\bin\Debug\net10.0\Catalog.Application.pdb
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\bin\Debug\net10.0\Catalog.Core.pdb
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog.Infrastructure.AssemblyInfo.cs
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog..168C4A48.Up2Date
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog.Infrastructure.dll
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\refint\Catalog.Infrastructure.dll
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\Catalog.Infrastructure.pdb
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Infrastructure\obj\Debug\net10.0\ref\Catalog.Infrastructure.dll
