@@ -40,7 +40,11 @@
               "RelativeDocumentMoniker": "Serviecs\\catalog\\Catalog.API\\Program.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Serviecs\\catalog\\Catalog.API\\Program.cs",
               "RelativeToolTip": "Serviecs\\catalog\\Catalog.API\\Program.cs",
+<<<<<<< Updated upstream
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAfAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+>>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T01:30:58.289Z",
               "EditorCaption": ""
