@@ -1,3 +1,4 @@
+using Microsoft.OpenApi;
 public partial class Program
 {
     private static void Main(string[] args)
@@ -6,7 +7,20 @@ public partial class Program
 
 
         builder.Services.AddControllers();
-        builder.Services.AddSwaggerGen();
+        builder.Services.AddSwaggerGen(options =>
+        {
+            options.SwaggerDoc("v1", new OpenApiInfo
+            {
+                Title = "Catalog",
+                Version = "v1",
+                Description = "This is Api For Catalog Project of MicroServices",
+                Contact = new OpenApiContact
+                {
+                    Name = "Emad Badr",
+                    Email = "emadin9910@outlook.com"
+                }
+            });
+        });
 
         builder.Services.AddOpenApi();
 

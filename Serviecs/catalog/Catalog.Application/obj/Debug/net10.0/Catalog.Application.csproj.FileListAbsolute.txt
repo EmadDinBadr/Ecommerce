@@ -8,6 +8,7 @@ C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\De
 C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.AssemblyInfoInputs.cache
 C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.AssemblyInfo.cs
 C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.sourcelink.json
 C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\Debug\net10.0\Catalog..75771DFE.Up2Date
 C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\Debug\net10.0\Catalog.Application.dll
 C:\Users\dell\source\repos\Ecommerce\Serviecs\catalog\Catalog.Application\obj\Debug\net10.0\refint\Catalog.Application.dll

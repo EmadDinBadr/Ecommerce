@@ -11,8 +11,7 @@
           "Catalog.Application": "1.0.0",
           "Catalog.Infrastructure": "1.0.0",
           "Microsoft.AspNetCore.OpenApi": "10.0.0",
-          "Swashbuckle.AspNetCore": "10.0.1",
-          "Swashbuckle.AspNetCore.Swagger": "10.0.1"
+          "Swashbuckle.AspNetCore": "10.0.1"
         },
         "runtime": {
           "Catalog.API.dll": {}

@@ -1,8 +1,13 @@
 {
   "openapi": "3.0.4",
   "info": {
-    "title": "Catalog.API",
-    "version": "1.0"
+    "title": "Catalog",
+    "description": "This is Api For Catalog Project of MicroServices",
+    "contact": {
+      "name": "Emad Badr",
+      "email": "emadin9910@outlook.com"
+    },
+    "version": "v1"
   },
   "paths": {
     "/WeatherForecast": {

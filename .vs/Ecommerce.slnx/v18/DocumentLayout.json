@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\dell\\source\\repos\\Ecommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F01C8652-B5F5-4C22-8279-DB413352A020}|Serviecs\\catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\dell\\source\\repos\\ecommerce\\serviecs\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F01C8652-B5F5-4C22-8279-DB413352A020}|Serviecs\\catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:serviecs\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{285635EE-D57B-AF58-CD27-065196CF5778}|Serviecs\\catalog\\Catalog.API\\Catalog.API.csproj|c:\\users\\dell\\source\\repos\\ecommerce\\serviecs\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{285635EE-D57B-AF58-CD27-065196CF5778}|Serviecs\\catalog\\Catalog.API\\Catalog.API.csproj|solutionrelative:serviecs\\catalog\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Serviecs\\catalog\\Catalog.API\\Program.cs",
               "ToolTip": "C:\\Users\\dell\\source\\repos\\Ecommerce\\Serviecs\\catalog\\Catalog.API\\Program.cs",
               "RelativeToolTip": "Serviecs\\catalog\\Catalog.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-30T01:30:58.289Z",
               "EditorCaption": ""
